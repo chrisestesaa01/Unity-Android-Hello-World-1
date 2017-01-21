@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chrisestes/Projects/Unity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4c2bb739802f449d41596a4445814ed529a8804">
+        <dex dex="/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3eb950cfec30fb148d2b5b9adc8543f8a01c7f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrisestes/Projects/Unity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89b9ae8d63ecfee9c4e076f50d1e73144ab45003">
+        <dex dex="/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b333d6adaec3a5a1c829f27064952ec513ceb87e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrisestes/Projects/Unity/app/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e5f0bba9ec09f6878042e5c4b4312c3fce2632a">
+        <dex dex="/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_9c09784b39ab2eaf662c539866b745cd5740e317/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Nov 29 15:28:36 EST 2016
+base.0=/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3eb950cfec30fb148d2b5b9adc8543f8a01c7f13
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b333d6adaec3a5a1c829f27064952ec513ceb87e/classes.dex
+base.1=/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b333d6adaec3a5a1c829f27064952ec513ceb87e
+file.0=/Users/chrisestes/Projects/Unity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3eb950cfec30fb148d2b5b9adc8543f8a01c7f13/classes.dex
